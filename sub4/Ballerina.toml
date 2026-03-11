@@ -1,0 +1,9 @@
+[package]
+org = "kajendran"
+name = "wi_test4_4"
+version = "0.1.0"
+distribution = "2201.13.1"
+title = "wi_test4_4"
+
+[build-options]
+sticky = true
